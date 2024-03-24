@@ -1,3 +1,3 @@
-# releves-de-notes
+# Relevés de notes
 
-Relevés de notes du S5
+Ce repo contient les relevés de notes du S5 qui n'ont pas été remis, dans le but de les transmettre aux établissements de formation de Master.
